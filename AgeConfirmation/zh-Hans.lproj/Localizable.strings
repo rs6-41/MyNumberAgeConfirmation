@@ -1,0 +1,44 @@
+"#VerifyAge" = "验证年龄";
+"#FaceID" = "面容 ID";
+"#TouchID" = "触控 ID";
+"#VerifyAge" = "验证年龄";
+"#FaceID" = "面容 ID";
+"#TouchID" = "触控 ID";
+"#OpticID" = "视控 ID";
+"#biometry" = "生物识别认证";
+"%@Applocked" = "“%@”已被锁定";
+"#Taptounlock" ="#轻点图标以解锁";
+"#Done" = "完成";
+"#inputPasscode" = "请输入 iPhone 的密码";
+"#setting" = "设置";
+"#VerifyAgeTitle" = "年龄验证";
+"#MobileID" = "通过移动 ID 验证年龄";
+"#MobileIDabout" = "通过手机读取个人编号卡来进行年龄验证。";
+"#AgeMobileIDprivacy" = "本应用使用Apple Inc.的[证件校验器](https://developer.apple.com/cn/design/human-interface-guidelines/id-verifier)API(仅显示)。会显示“是否已达到一定年龄”的信息以及用于比对的面部照片。应用不会保存身份证信息，数据也不会被发送到外部。通过扫描身份证，即视为同意[使用条款](ageverifier://terms)。这不是日本数字厅的官方App。";
+"#UnsupportedDevice" = "该设备不受支持。";
+"#error" = "错误";
+"#CancelScan" = "扫描已取消";
+"%@NotPermission" = "无权访问%@";
+"#MustUnlock" = "需要验证身份";
+"#ReadingError%@" = "读取时发生错误：%@";
+"#AdultAges" = "年龄要求";
+"%@old" = "%@岁";
+"#TutorialMyNumberCard" = "确认个人编号卡";
+"#TutorialMyNumberCarddiscription" = "使用保存在数字钱包中的证件件，仅提供最少信息即可安全地进行年龄验证。这不是日本数字厅的官方App。";
+
+"#Tutorialcertainty" = "可靠的认证";
+"#TutorialCertaintydiscription" = "通过使用具有自动验证功能的应用程序，可以防止自我申报或人工目视检查带来的错误与欺诈。";
+
+"#TutorialPrivacy" = "隐私";
+"#TutorialPrivacydiscription" = "使用 iPhone 内建的“证件校验器”功能，应用本身不会访问证件校验器。";
+
+"#TutorialTitle" = "年龄验证APP";
+"#Continue" = "继续";
+"#TermsofUse" = "使用条款";
+"#DebugmodeAlertTitle" = "调试模式";
+"#DebugmodeAlertMessage" = "已启用调试模式。如果这不是预期的显示，请点击“关闭”。";
+"#Close" = "关闭";
+"#OK" = "确定";
+"#NotSupportRegion" = "当前无法在指定地区读取身份证件。";
+"#Warning" = "Warning";
+"#WarningMessage" = "本应用程序是一个供开发者测试“身份验证”功能的技术验证用测试应用。请勿用于需要法律责任的场合，例如酒类或烟草的年龄验证。开发者对任何使用方式概不负责。";

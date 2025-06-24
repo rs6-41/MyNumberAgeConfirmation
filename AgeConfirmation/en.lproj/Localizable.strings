@@ -1,0 +1,40 @@
+"#VerifyAge" = "Verify Age";
+"#FaceID" = "Face ID";
+"#TouchID" = "Touch ID";
+"#OpticID" = "Optic ID";
+"#biometry" = "Biometric Authentication";
+"%@Applocked" = "\"%@\" is locked";
+"#Taptounlock" = "Tap the icon to unlock";
+"#Done" = "Done";
+"#setting" = "Settings";
+"#VerifyAgeTitle" = "Age Verification";
+"#MobileID" = "Verify Age with Mobile ID";
+"#MobileIDabout" = "Verify your age by scanning your My Number Card on smartphone.";
+"#AgeMobileIDprivacy" = "This app uses Apple Inc.’s “[ID Verifier](https://support.apple.com/en-az/guide/security/secb569bf393/web)”API(Display Only). It displays whether the user meets the age requirement and a photo for verification. The app does not store information from the card, and no data is transmitted externally. By scanning your ID, you are deemed to have agreed to the [Terms of Service](ageverifier://terms).";
+"#UnsupportedDevice" = "This device is not supported.";
+"#error" = "Error";
+"#CancelScan" = "Scan canceled";
+"%@NotPermission" = "No permission to access %@";
+"#MustUnlock" = "Authentication is required";
+"#ReadingError%@" = "An error occurred while reading: %@";
+"#AdultAges" = "Age Requirements";
+"%@old" = "%@ years old";
+"#TutorialMyNumberCard" = "Check My Number Card";
+"#TutorialMyNumberCarddiscription" = "Verify your age securely with minimal required information using your ID saved in the digital wallet.This is not the official app of the Japan Digital Agency.";
+
+"#Tutorialcertainty" = "Reliable Verification";
+"#TutorialCertaintydiscription" = "Using an app with automatic verification eliminates errors and fraud from self-reporting or manual checks.";
+
+"#TutorialPrivacy" = "Privacy";
+"#TutorialPrivacydiscription" = "Uses iPhone’s built-in [\"#ID Verification\"](https://developer.apple.com/design/human-interface-guidelines/id-verifier) function. The app itself does not access ID data. This is not the official app of the Japan Digital Agency.";
+
+"#TutorialTitle" = "Age Verification App";
+"#Continue" = "Continue";
+"#TermsofUse" = "Terms of Use";
+"#DebugmodeAlertTitle" = "Debug Mode";
+"#DebugmodeAlertMessage" = "Debug mode has been enabled. If this message was not intended, please press the \"Close\" button.";
+"#Close" = "Close";
+"#OK" = "OK";
+"#NotSupportRegion" = "ID reading is not currently supported in the specified region.";
+"#Warning" = "Warning";
+"#WarningMessage" = "This app is a developer-oriented test application for technical verification of the “ID verification” feature. Do not use it for legal age verification in cases such as alcohol or tobacco sales. The developer assumes no responsibility for any use.";

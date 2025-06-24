@@ -1,0 +1,5 @@
+"#OPEN_APP" = "[アプリを開く](ageverifier://)";
+"#RESET_DEVICE_JUDMENT" = "[対応デバイス判定をリセット](ageverifier://reset_device_judment)";
+"#RESET" = "初期化";
+"#Terms" = "規約";
+"#TermsofUse" = "[利用規約⋯](ageverifier://terms)";
